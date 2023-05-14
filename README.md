@@ -14,3 +14,5 @@ npx create-react-native-app -t with-router
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
 # Job-Hunter
+
+deployed link 👉 https://expo.dev/@soumyadeeposd/job-hunter?sserviceType=classic&distribution=expo-go
